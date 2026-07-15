@@ -314,4 +314,3 @@ Future work:
 - determine how to recover `a, b, c, d` from the elliptic curve coefficients
 - automate or reduce the need for choosing `beta` and `tbeta`
 - decide which parts should eventually be moved back into the main package
-``` гэтага
